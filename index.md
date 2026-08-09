@@ -13,6 +13,7 @@ This is the catalog for the compiled knowledge base. Read this page first, then 
 ## Sources
 
 - [[Mole - User Note]] — Personal note identifying Mole as a free macOS disk-cleanup utility.
+- [[Speed Up Your AI Development Workflow by 2x]] — Incomplete source record for a local-AI privacy workflow attributed to Nick Chapsas.
 
 ## Open Questions
 

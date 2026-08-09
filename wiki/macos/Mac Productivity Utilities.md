@@ -21,6 +21,7 @@ A lightweight toolkit of macOS utilities that solve practical maintenance and pr
 ## Tools
 
 - [[Mole]] — A free disk-cleanup option for reclaiming space. Unverified.
+- [[Radio Silence]] — A firewall option for blocking network access while evaluating local AI tools. Unverified.
 
 ## Connections
 
