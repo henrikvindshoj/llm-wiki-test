@@ -4,15 +4,15 @@ This is the catalog for the compiled knowledge base. Read this page first, then 
 
 ## Core
 
-- [[Home]] — Orientation and current scope.
+- [[Home]] — Orientation for the personal technology field guide and its current scope.
 
 ## Subjects
 
-<!-- Add subject overview pages here as the wiki grows. -->
+- [[Mac Productivity Utilities]] — Lightweight macOS tools for practical maintenance and productivity tasks.
 
 ## Sources
 
-<!-- Add recurring source families and important standalone source summaries here. -->
+- [[Mole - User Note]] — Personal note identifying Mole as a free macOS disk-cleanup utility.
 
 ## Open Questions
 

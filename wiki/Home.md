@@ -1,23 +1,26 @@
 ---
 type: subject
-created: ""
-updated: ""
-status: seed
+created: 2026-08-09
+updated: 2026-08-09
+status: active
 tags:
   - wiki
+  - technology
 ---
 
 # Home
 
 ## Summary
 
-This wiki has not been configured yet. Ask your preferred AI agent to read [[WIKI]] and `AGENTS.md`, then define the topic and purpose before ingesting sources.
+This is a personal field guide to useful technology tips, tricks, fixes, commands, tools, and workflows. It favors concise, reusable guidance with enough context, provenance, and safety information to remain useful later.
 
 ## Subjects
 
-The subject tree will appear here as the wiki grows.
+- [[Mac Productivity Utilities]] — Lightweight macOS tools for practical maintenance and productivity tasks.
+
+See [[WIKI]] for the scope and evidence policy, or return to [[index|Index]] to browse the full catalog.
 
 ## Open Questions
 
-- What topic should this wiki cover?
-- Which sources should count as evidence?
+- Which recurring technical problems are most valuable to document first?
+- Which platforms and tools should become the initial subject areas?
