@@ -3,7 +3,7 @@ type: source-summary
 created: 2026-08-09
 updated: 2026-08-09
 status: processed
-source: "raw/processed/Mole.md"
+source: "raw/processed/2026-08-09 - Mole source.md"
 source_author: "Vault owner"
 source_published: 2026-08-09
 tags:
@@ -35,5 +35,5 @@ A personal note identifies Mole as a free macOS disk-cleanup utility and places 
 
 ## Source
 
-- Immutable evidence: `raw/processed/Mole.md`
+- Immutable evidence: `raw/processed/2026-08-09 - Mole source.md`
 - Provenance: User-provided note, 2026-08-09.

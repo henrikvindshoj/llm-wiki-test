@@ -3,7 +3,7 @@ type: source-summary
 created: 2026-08-09
 updated: 2026-08-09
 status: incomplete
-source: "raw/processed/Radio Silence.md"
+source: "raw/processed/2026-08-09 - Radio Silence source.md"
 source_author: "Nick Chapsas"
 source_published: ""
 tags:
@@ -38,5 +38,5 @@ The original source has not been ingested, so its format, URL, publication date,
 
 ## Source
 
-- Immutable evidence: `raw/processed/Radio Silence.md`
+- Immutable evidence: `raw/processed/2026-08-09 - Radio Silence source.md`
 - Provenance: User-provided note, 2026-08-09.
