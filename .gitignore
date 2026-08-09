@@ -1,0 +1,9 @@
+.DS_Store
+.env
+*.pyc
+__pycache__/
+
+# Obsidian machine and session state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
